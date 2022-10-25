@@ -2,3 +2,4 @@ Hello Git!
 This is a  hot-fix branch!
 on the hot-fix fix the bug
 master change
+hot-fix change
