@@ -1,4 +1,3 @@
-fsdfasdfsdffHello world
-asfsdfasdf
-sdfsdf
-sdfsdfsdafsdfsdfsdfsdfsdf
+Hello Git!
+This is a  hot-fix branch!
+on the hot-fix fix the bug
